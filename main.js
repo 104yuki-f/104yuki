@@ -43,7 +43,7 @@ window.onload=()=>{
 	function setItem(index){
 		entry.value='';
 		ja.textContent=animals[index][0];
-		img.src='images/'+animals[index][2];
+		img.src='./images/'+animals[index][2];
 	}
 	setItem(index);
 }
