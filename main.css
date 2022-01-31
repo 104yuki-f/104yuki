@@ -25,4 +25,6 @@
 #result.fade{
 	opacity:0;	
 }
-background-color: #00bfff;
+body {
+  background-color: #00bfff; //
+}
