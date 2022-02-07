@@ -3,7 +3,7 @@ window.onload=()=>{
 	const words=[
 		['光景','sight','sight.jpg'],		
 		['眺め、景色','view','view.jpg'],
-		["風景","landscape","landscape.jpg""],		
+		["風景","landscape","landscape.jpg"],		
 		["自然","nature","nature.jpg"],
 		["種","seed","seed.jpg"],		
 		["植物","plant","plant.jpg"],
