@@ -37,6 +37,7 @@ window.onload=()=>{
 		["正確な、正しい","",""],
 		["理想的な、申し分のない","",""],
 		["公正な、公平な","",""],
+	];
 	const ja =document.getElementById('ja');
 	const entry=document.getElementById('entry');
 	const img=document.getElementById('img');
