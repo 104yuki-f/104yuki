@@ -43,7 +43,7 @@ window.onload=()=>{
 	function setItem(index){
 		entry.value='';
 		ja.textContent=words[index][0];
-		img.src='./images/words/'+words[index][2];
+		img.src='https://github.com/104yuki-f/104yuki-f/blob/main/images/words/'+words[index][2];
 	}
 	setItem(index);
 }
