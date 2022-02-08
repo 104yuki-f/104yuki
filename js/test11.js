@@ -22,6 +22,7 @@ window.onload=()=>{
 	btn.addEventListener('click',()=>{
 		let ans=entry.value.toLowerCase();
 		let msg='';
+		ja.classList.remove("fade");
 		if (ans == words[index][1]){
 			correct++;
 			msg='正解!';
