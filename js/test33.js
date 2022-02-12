@@ -13,6 +13,7 @@ window.onload=()=>{
 		['ではないかと思う','suspect','suspect.jpg'],
 		['を理解する','comprehend','comprehend.jpg'],
 		['を誤解する','misunderstand','misunderstand.jpg'],
+		['を特定する','identify','identify.jpg']
 		['を許可する','permit','permit.jpg'],
 		['を認める','acknowledge','acknowledge.jpg'],
 		['を刈り込む','trim','trim.jpg'],
