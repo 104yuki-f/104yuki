@@ -3,7 +3,7 @@ window.onload=()=>{
 	const words=[
 		['～を断定する','assert','assert.jpg'],
 		['～に逆らう','defy','defyjpg'],
-		['～を避難する','condemm','condemm.jpg'],
+		['～を非難する','condemm','condemm.jpg'],
 		['～と矛盾する','contradict','contradict.jpg'],
 		['～を引き合いに出す','cite','cite.jpg'],
 		['～を説明する','illustrate','illustrate.jpg'],
@@ -75,6 +75,7 @@ window.onload=()=>{
 		['反逆者','rebel','rebel.jpg'],
 		['計画','scheme','scheme.jpg'],
 		['会議','convention','convention.jpg'],
+		['(大規模な)会議','conference','conference.jpg'],
 		['合意','consent','consent.jpg'],
 		['新構想','initiative','initiative.jpg'],
 		['州','province','province.jpg'],
