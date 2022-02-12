@@ -7,8 +7,8 @@ window.onload=()=>{
 		["助言","tip","tip.jpg"],
 		["議論する","discuss","discuss.jpg"],
 		["に責任があるとする","blame","blame.jpg"],
-		["主張する","argue","argue.jpg"],
-		["～と主張する","claim","claim.jpg"],
+		["～を主張する(a)","argue","argue.jpg"],
+		["～と主張する(c)","claim","claim.jpg"],
 		["文句を言う、苦情を言う","complain","complain.jpg"],
 		["申し出る","offer","offer.jpg"],
 		["〜を示唆する、〜を提案する","suggest","suggest.jpg"],
@@ -117,7 +117,7 @@ window.onload=()=>{
 			correct++;
 			msg='正解!';
 		}else{
-			msg=`不正解!${words[index][0]}の英単語は${words[index][1]}`;
+			msg=`不正解!正解は${words[index][1]}`;
 		}
 		if(index==words.length-1){
 			msg+=`<br>全${words.length}問中,${correct}問正解`;
