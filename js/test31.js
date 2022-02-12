@@ -10,9 +10,10 @@ window.onload=()=>{
 		['ほめ言葉','compliment','compliment.jpg'],
 		['宴会','feast','feast.jpg'],
 		['を宣言する','declare','declare.jpg'],
-		['を示す','demonstrate','demonstrate.jpg'],
+		['を(はっきり)示す','demonstrate','demonstrate.jpg'],
 		['を強調する','highlight','highlight.jpg'],
 		['を意味する','imply','imply.jpg'],
+		['～を暗唱する','recite','recite.jpg']
 		['光線','ray','ray.jpg'],
 		['放射線','radiation','radiation.jpg'],
 		['研究所','laboratory','laboratory.jpg'],
@@ -115,7 +116,7 @@ window.onload=()=>{
 			correct++;
 			msg='正解!';
 		}else{
-			msg=`不正解!${words[index][0]}の英単語は${words[index][1]}`;
+			msg=`不正解!${words[index][0]}正解は${words[index][1]}`;
 		}
 		if(index==words.length-1){
 			msg+=`<br>全${words.length}問中,${correct}問正解`;
