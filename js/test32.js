@@ -39,7 +39,7 @@ window.onload=()=>{
 		['奴隷','slave','slave.jpg'],
 		['知人','acquaintance','acquaintance.jpg'],
 		['商人','merchant','merchant.jpg'],
-		['住民','resident','resident.jpg'],
+		['住人','resident','resident.jpg'],
 		['乗組員','crew','crew.jpg'],
 		['通勤する','commute','commute.jpg'],
 		['を追いかける','chase','chase.jpg'],
@@ -70,8 +70,8 @@ window.onload=()=>{
 		['(ぐいっと)つかむ','grab','grab.jpg'],
 		['をつかむ','seize','seize.jpg'],
 		['を投げる','cast','cast.jpg'],
-		['を平手する','slap','slap.jpg'],
-		['を気絶する','stun','stun.jpg'],
+		['を平手打ちする','slap','slap.jpg'],
+		['を気絶させる','stun','stun.jpg'],
 		['を照らす','illuminate','illuminate.jpg'],
 		['を修繕する','mend','mend.jpg'],
 		['反応する','react','react.jpg'],
@@ -101,7 +101,6 @@ window.onload=()=>{
 		['考え','notion','notion.jpg'],
 		['概念','concept','concept.jpg'],
 		['瞑想','meditation','meditation.jpg'],
-		['洞察','insight','insight.jpg'],
 	];
 	const ja =document.getElementById('ja');
 	const entry=document.getElementById('entry');
