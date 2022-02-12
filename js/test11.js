@@ -47,7 +47,7 @@ window.onload=()=>{
 		["～を確立する","establish","establish.jpg"],
 		["〜を省く、〜を救う、〜を貯蓄する","save","save.jpg"],
 		["薬","medicine","medicine.jpg"],
-		["患者","患者","患者.jpg"],
+		["患者","patient","patient.jpg"],
 		["状態、状況","condition","condition.jpg"],
 		["医学の、医療の","medical","medical.jpg"],
 		["ストレス","stress","stress.jpg"],
