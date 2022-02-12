@@ -103,7 +103,7 @@ window.onload=()=>{
 		['〜を当惑させる','bewilder','bewilder.jpg'],
 		['〜を困惑させる','perplex','perplex.jpg'],
 		['〜に嫌悪を抱かせる','disgust','disgust.jpg'],
-		['〜を軽蔑する','despise','despise'.jpg'],
+		['〜を軽蔑する','despise','despise.jpg'],
 		['激怒した','furious','furious.jpg'],
 		['親密な','intimate','intimate.jpg'],
 		['興味深い','intriguing','intriguing.jpg'],
