@@ -1,9 +1,9 @@
 <?php 
 error_reporting (E_ALL & ~E_NOTICE & ~E_WARNING & ~E_STRICT & ~E_DEPRECATED);
 //
-$mail_sys = "04yknatu@gmail.com";	// 管理者のメールアドレス
-$from_name = "pbl51班技術部";	// メール送信者の表示
-$from_mail = "04yknatu@gmail.com";	// メール送信者のメールアドレス（返信先）
+$mail_sys = "";	// 管理者のメールアドレス
+$from_name = "";	// メール送信者の表示
+$from_mail = "";	// メール送信者のメールアドレス（返信先）
 $user_mail = "item2";	// 利用者にメールを送る場合のメールアドレス項目
 //---
 $title = "お問い合わせフォーム";
