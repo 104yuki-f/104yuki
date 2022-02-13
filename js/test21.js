@@ -1,11 +1,11 @@
 'use strict';
 window.onload=()=>{
 	const words=[
-		['討論','debate','debate.jpg'],
-		['～を批判する','criticize','criticize.jpg'],
-		['～を非難する','accuse','accuse.jpg'],
-		['（～と）言い張る，（強く）主張する','insist','insist.jpg'],
-		['（～に感情的に）反対する','object','object.jpg'],
+		['討論','debate','debate.jfif'],
+		['～を批判する','criticize','criticize.jfif'],
+		['～を非難する','accuse','accuse.jfif'],
+		['（～と）言い張る，（強く）主張する','insist','insist.jfif'],
+		['（～に感情的に）反対する','object','object.jfif'],
 		['（～に対して）抗議する','protest','protest.jpg'],
 		['論争を招く，物議をかもす','controversial','controversial.jpg'],
 		['きっと～（する，～する［である］に違いない）','bound','bound.jpg'],
