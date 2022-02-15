@@ -100,7 +100,7 @@ window.onload=()=>{
 		['代わりに','instead','instead.jpg'],
 		['～まで（ずっと）','until','until.jpg'],
 		['～に加えて','besides','besides.jpg'],
-		['～を除いて','','.jpg'],
+		['～を除いて','except','.jpg'],
 	];
 	const ja =document.getElementById('ja');
 	const entry=document.getElementById('entry');
@@ -119,7 +119,7 @@ window.onload=()=>{
 			msg=`不正解!正しくは${words[index][1]}`;
 		}
 		if(index==words.length-1){
-			msg+=`<br>全${words.length}問中,${correct}問正解`;
+			msg+=`<br>全${words.l-ength}問中,${correct}問正解`;
 			index=-1;
 		}
 		result.innerHTML=msg;
