@@ -79,7 +79,7 @@ window.onload=()=>{
 		["流行の","fashion","fashion.jpg"],
 		["大衆、公共の","public","public.jpg"],
 		["投票","vote","vote.jpg"],
-		["政府","govenment","govenment.jpg"],
+		["政府","government","government.jpg"],
 		["国家、国民","nation","nation.jpg"],
 		["首都、資本","capital","capital.jpg"],
 		["州","state","state.jpg"],
