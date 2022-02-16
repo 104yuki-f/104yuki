@@ -13,7 +13,7 @@ window.onload=()=>{
 		["～に申し出る","offer","offer.jpg"],
 		["〜を示唆する、〜を提案する","suggest","suggest.jpg"],
 		["～に推薦する、勧める","recommend","recommend.jpg"],
-		["感謝している","greatful","grateful.jpg"],
+		["感謝している","grateful","grateful.jpg"],
 		["謝る","apologize","apologize.jpg"],
 		["言い訳","excuse","excuse.jpg"],
 		["～を祝う","celebrate","celebrate.jpg"],
