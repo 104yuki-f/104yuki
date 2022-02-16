@@ -119,7 +119,7 @@ window.onload=()=>{
 			msg=`× 正:${words[index][1]}`;
 		}
 		if(index==words.length-1){
-			msg+=`<br>全${words.l-ength}問中${correct}問正解`;
+			msg+=`<br>全${words.length}問中${correct}問正解`;
 			index=-1;
 		}
 		result.innerHTML=msg;
