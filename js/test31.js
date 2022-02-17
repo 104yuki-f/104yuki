@@ -13,7 +13,7 @@ window.onload=()=>{
 		['を(はっきり)示す','demonstrate','demonstrate.jpg'],
 		['を強調する','highlight','highlight.jpg'],
 		['を意味する','imply','imply.jpg'],
-		['～を暗唱する','recite','recite.jpg']
+		['～を暗唱する','recite','recite.jpg'],
 		['光線','ray','ray.jpg'],
 		['放射線','radiation','radiation.jpg'],
 		['研究所','laboratory','laboratory.jpg'],
