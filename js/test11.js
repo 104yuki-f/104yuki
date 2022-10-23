@@ -3,7 +3,7 @@ window.onload=()=>{
 	const words=[
 		['賛成する','agree','agree.jpg'],
 		["～に反対する、対立する","oppose","oppose.jpg"],
-		["～に忠告する","advise","advise.jpg"],
+		["～に忠告する","advice","advice.jpg"],
 		["助言、ヒント","tip","tip.jpg"],
 		["～について議論する","discuss","discuss.jpg"],
 		["～に責任があるとする","blame","blame.jpg"],
