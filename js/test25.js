@@ -1,7 +1,7 @@
 'use strict';
 window.onload=()=>{
 	const words=[
-		['新品の','brand-new','.jpg'],
+		['新品の','brand-new','brand-new.jpg'],
 		['急速な','rapid','rapid.jpg'],
 		['緊急の','urgent','urgent.jpg'],
 		['急激な(変化、方向転換)、鋭い(刃物、感覚)','sharp','sharp.jpg'],
