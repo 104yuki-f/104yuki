@@ -382,10 +382,10 @@ footer .pr {display: block;}
 	background: linear-gradient(#0096ff,#0060ff);/*背景グラデーション*/
 }
 #mainimg-inner div:nth-of-type(3) {
-	background: linear-gradient(#0096ff,#0060ff);/*背景グラデーション*/
+	background: linear-gradient(#00BCD4,#6bedeb);/*背景グラデーション*/
 }
 #mainimg-inner div:nth-of-type(4) {
-	background: linear-gradient(#0096ff,#0060ff);/*背景グラデーション*/
+	background: linear-gradient(	#39ffbc,	#45b32d);/*背景グラデーション*/
 }
 
 /*spanタグ。大きな文字の指定です。*/
