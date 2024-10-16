@@ -3,7 +3,7 @@
 ### 最初のメインページはテンプレートです
 <!--
 **104yuki-f/104yuki-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://104yuki-f.github.io/English_site/index.html">英単語アプリ produced by 51班</a>
+[英単語アプリ produced by 51班](https://104yuki-f.github.io/English_site/index.html)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
