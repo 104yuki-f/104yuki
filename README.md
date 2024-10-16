@@ -1,6 +1,6 @@
 ### やっほーーーーー👋
-##高校２年生の時にPBLで作った英単語学習サイトです
-#最初のメインページはテンプレートです
+## 高校２年生の時にPBLで作った英単語学習サイトです
+# 最初のメインページはテンプレートです
 <!--
 **104yuki-f/104yuki-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
